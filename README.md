@@ -1,3 +1,3 @@
-# git_test
-Primer repositorio en Github
-Hello Odin y todos
+# odin_recipes
+Primer proyecto con la maravillosa web educativa Odin Project.
+Creando un repositorio en Github y clonandolo en VBS.
