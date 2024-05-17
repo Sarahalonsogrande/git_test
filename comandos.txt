@@ -1,0 +1,9 @@
+git status
+git log
+git clone  
+git config --global init.defaultBranch main
+git remote -v
+git add .
+git commit -m ""
+git log
+git push origin main 
